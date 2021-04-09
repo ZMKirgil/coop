@@ -1,3 +1,5 @@
+```
+
 library(haven)
 library(readr)
 library(tidyverse)
@@ -258,4 +260,4 @@ t.test(coop_clean$Pre1b ~ coop_clean$MS, var.equal = T, conf.level = 0.95) #n.s.
 lsr::cohensD(coop_clean$Pre1b ~ coop_clean$MS) #0.107663
 compute.es::des(d =.107663, n.1 = 200, n.2 = 155) # d [ 95 %CI] = 0.11 [ -0.1 , 0.32 ] 
 
-
+```
