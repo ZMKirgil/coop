@@ -1,5 +1,7 @@
 # coop
 
+This is the repository for [link] by Z.M.Kirgil, T.Postmes & R.P.M.Wittek.
+
 ## Terms of use
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License][cc-by-sa].
