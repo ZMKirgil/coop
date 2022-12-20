@@ -1,6 +1,7 @@
-# coop
+# COOPERATION SUSTAINABILITY IN SMALL GROUPS - Exogenous and Endogenous Dynamics of the Sustainability of Cooperation
 
-This is the repository for [link] by Z.M.Kirgil, T.Postmes & R.P.M.Wittek.
+
+This is the repository for [link] by Z.M.Kirgil & R.P.M.Wittek.
 
 ## Terms of use
 
